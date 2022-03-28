@@ -1,4 +1,4 @@
-# Portafolio Java Web App
+# Portafolio Java Web App 
 Develop Time: 10 hours.
 
 ## Description
@@ -56,7 +56,7 @@ npm install
 npm start
 ```
 
-Open the http://localhost:3000/ site in a browser
+Open the http://localhost:3000/ site in a browser 
 
 ## Technologies Used
 ### Backend
@@ -174,4 +174,3 @@ curl --location --request GET 'http://localhost:8080/api/v1/twitter/2956121356'
     }
 ]
 ```
-
